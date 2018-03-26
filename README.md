@@ -1,4 +1,4 @@
-# Commerce Payment Providers
+# Epay Commerce Payment Provider
 Open-sourced payment gateways for Episerver Commerce. This solution contains:
 * Epay payment provider project.
 This provider connects Episerver Commerce with DIBS, a popular and widely used system for accepting credit card payments.
