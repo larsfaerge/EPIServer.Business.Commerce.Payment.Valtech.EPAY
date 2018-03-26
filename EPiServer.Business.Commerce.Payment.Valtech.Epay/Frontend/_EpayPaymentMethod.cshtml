@@ -1,0 +1,6 @@
+﻿@model EPiServer.Commerce.Order.IPaymentOption
+@Html.HiddenFor(model => model.PaymentMethodId)     
+<div id='PaymentEpay'>
+    <img src="http://www.epay.eu/images/layout/logo.gif" />
+    <span class="text-error">@ViewBag.Message</span>
+</div>

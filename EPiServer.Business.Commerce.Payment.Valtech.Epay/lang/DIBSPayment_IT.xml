@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language name="Italiano" id="it">
+    <Commerce>
+      <Checkout>
+        <DIBS>
+          <CancelMessage>Il pagamento è stato respinto o annullato. Si prega di riprovare o scegliere un altro metodo di pagamento</CancelMessage>
+          <DIBSSettingsError>Errore nelle impostazioni di DIBS API. Si prega di contattare l’amministratore.</DIBSSettingsError>
+          <DIBSText>DIBS</DIBSText>
+          <PaymentNotSpecified>Informazioni di pagamento non sono specificate.</PaymentNotSpecified>
+          <PaymentNotAssociatedOrderGroup>Pagamento deve essere associato a un gruppo di ordine.</PaymentNotAssociatedOrderGroup>
+          <PaymentNotAssociatedOrderForm>Pagamento deve essere associato a un modulo di ordine.</PaymentNotAssociatedOrderForm>
+          <ProcessPaymentNullHttpContext>HttpContext.Current è zero</ProcessPaymentNullHttpContext>
+          <NotEnoughStockWarning>Pagamento completato ma magazzino non sufficiente. Contatta gli amministratori.</NotEnoughStockWarning>
+          <CartValidationWarning>Errore durante l'elaborazione del carrello.</CartValidationWarning>
+        </DIBS>
+      </Checkout>
+    </Commerce>
+  </language>
+</languages>
